@@ -1,4 +1,7 @@
-Folder Structure  
+## Test for Consultancy with the D&A Education Team
+
+### Folder Structure
+
 UNICEF/  
 ├── analysis_code                # code  
 │   ├── user_profile.py         # environment setting  
@@ -19,10 +22,10 @@ UNICEF/
 │  
 └── README.md  
 
-How to run  
+## How to run  
 Run the file named `run_project.py` at:  
 `UNICEF/analysis_code/`
 
-How to view  
+## How to view  
 Check the file named `coverage_report.html` at:  
 `UNICEF/results/`
