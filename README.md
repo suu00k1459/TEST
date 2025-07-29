@@ -22,10 +22,12 @@ UNICEF/
 │  
 └── README.md  
 
-## How to run  
+---
+### How to run  
 Run the file named `run_project.py` at:  
 `UNICEF/analysis_code/`
 
-## How to view  
+-------------------------------------------------------------------------------------------------------------------------------------------
+### How to view  
 Check the file named `coverage_report.html` at:  
 `UNICEF/results/`
